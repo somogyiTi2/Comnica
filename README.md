@@ -18,7 +18,8 @@ Kedves Jelentkező,
    - **d)** a gombot lehetőség szerint szervezd ki egy komponensbe, illetve kattintásra írjon valamit a console-ra.✅
    - **e)** minden más (elhelyezés, méretezés, margin, padding…stb.) rád van bízva, légy kreatív és munkádra igényes! 😊 ✅
 
-2. Adott egy gomb. Elvileg minden rendben kód szinten, mégsem csinál semmit se hover, se egyéb eseményre (nem disabled). Mi lehet a probléma, mi okozhat ilyen jelenséget?
+2. Adott egy gomb. Elvileg minden rendben kód szinten, mégsem csinál semmit se hover, se egyéb eseményre (nem disabled). Mi lehet a probléma, mi okozhat ilyen jelenséget?✅
+  -Tekerjen lejjebb az oldalon. (SecundPage component)
 
 3. Írj egy tetszőleges JS funkciót, ami lekér egy felhasználó listát egy képzeletbeli API-ról, majd miután ezt sikerrel megtette, lekér egy szín listát, majd miután ez is sikerült, egy tetszőleges színt rendel a 1-1 felhasználóhoz és így adja vissza a felhasználók listáját. Hiba esetén a console-ra ír, illetve eredménytől függetlenül a console-ra írja, ha végzett.
 
