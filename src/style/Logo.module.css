@@ -1,0 +1,31 @@
+.logo {
+    /*position top left*/
+    position: absolute; 
+    top: 20px; 
+    left: 20px; 
+    z-index: 1000;
+    
+
+    /*position in the flex*/
+    display: flex;
+    align-items: center;
+
+    color: #29a98b;
+
+    img {
+        max-width: 100px;
+        filter: none;
+        transition: filter 1s ease
+    }
+
+    transition: color 1s ease;
+}
+
+.logo:hover {
+    color: #186553;
+
+    img {
+        filter: contrast(200%);
+    }
+
+}

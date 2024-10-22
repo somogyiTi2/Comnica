@@ -6,17 +6,17 @@ Kedves Jelentkező,
 
 ## Feladatok
 
-1. Az alábbi kép alapján készítsd el a felületet AngularJS, hyperapp vagy React framework használatával, és töltsd fel valahova, vagy küldd vissza e-mailben!
-   - **a)** logót, az illusztrációt, valamint a háttérhez használt képet tetszőlegesen helyettesítsd be.
-   - **b)** betűtípus: **Roboto**.
-   - **c)** színkódok:
+1. Az alábbi kép alapján készítsd el a felületet AngularJS, hyperapp vagy React framework használatával, és töltsd fel valahova, vagy küldd vissza e-mailben! ✅
+   - **a)** logót, az illusztrációt, valamint a háttérhez használt képet tetszőlegesen helyettesítsd be.✅
+   - **b)** betűtípus: **Roboto**. ✅
+   - **c)** színkódok:✅
      - `#31363c`
      - `#29a98b`
      - `#20876f`
      - `#186553`
      - `#682c5d`
-   - **d)** a gombot lehetőség szerint szervezd ki egy komponensbe, illetve kattintásra írjon valamit a console-ra.
-   - **e)** minden más (elhelyezés, méretezés, margin, padding…stb.) rád van bízva, légy kreatív és munkádra igényes! 😊
+   - **d)** a gombot lehetőség szerint szervezd ki egy komponensbe, illetve kattintásra írjon valamit a console-ra.✅
+   - **e)** minden más (elhelyezés, méretezés, margin, padding…stb.) rád van bízva, légy kreatív és munkádra igényes! 😊 ✅
 
 2. Adott egy gomb. Elvileg minden rendben kód szinten, mégsem csinál semmit se hover, se egyéb eseményre (nem disabled). Mi lehet a probléma, mi okozhat ilyen jelenséget?
 

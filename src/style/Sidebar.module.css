@@ -1,0 +1,18 @@
+
+
+.sidebartext {
+    position: absolute;
+    padding: 15% 5% 0 5%; 
+
+    h1 {
+        font-size: 50px;
+        color: #682c5d;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    p {
+        font-size: 20px;
+        font-weight:bold;
+    }
+}
