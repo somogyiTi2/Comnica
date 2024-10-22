@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Button from './Button';
 import style from "../style/Button.module.css"
 
-const SecundPage = () => {
+const SecundTask = () => {
     const [button, setButton] = useState(true);
   return (
     <>
@@ -44,4 +44,4 @@ const SecundPage = () => {
   )
 }
 
-export default SecundPage
+export default SecundTask

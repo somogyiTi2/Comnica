@@ -3,7 +3,7 @@ import './App.css';
 import Sidebar from './components/Sidebar';
 import Hero from './components/Hero';
 import Logo from './components/Logo';
-import SecundPage from './components/SecundPage';
+import SecundTask from './components/SecundTask';
 
 
 function App() {
@@ -17,8 +17,8 @@ function App() {
         </div>
       </div>
       <div className='app-container'>
-        <SecundPage />
-      </div>
+        <SecundTask />
+      </div>     
     </>
   );
 }
