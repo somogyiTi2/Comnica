@@ -1,46 +1,39 @@
-# Getting Started with Create React App
+# Comnica
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Kedves Jelentkező,
 
-## Available Scripts
+örülünk, hogy vállalkozol a teszt elvégzésére! Négy feladatunk van számodra:
 
-In the project directory, you can run:
+## Feladatok
 
-### `npm start`
+1. Az alábbi kép alapján készítsd el a felületet AngularJS, hyperapp vagy React framework használatával, és töltsd fel valahova, vagy küldd vissza e-mailben!
+   - **a)** logót, az illusztrációt, valamint a háttérhez használt képet tetszőlegesen helyettesítsd be.
+   - **b)** betűtípus: **Roboto**.
+   - **c)** színkódok:
+     - `#31363c`
+     - `#29a98b`
+     - `#20876f`
+     - `#186553`
+     - `#682c5d`
+   - **d)** a gombot lehetőség szerint szervezd ki egy komponensbe, illetve kattintásra írjon valamit a console-ra.
+   - **e)** minden más (elhelyezés, méretezés, margin, padding…stb.) rád van bízva, légy kreatív és munkádra igényes! 😊
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2. Adott egy gomb. Elvileg minden rendben kód szinten, mégsem csinál semmit se hover, se egyéb eseményre (nem disabled). Mi lehet a probléma, mi okozhat ilyen jelenséget?
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+3. Írj egy tetszőleges JS funkciót, ami lekér egy felhasználó listát egy képzeletbeli API-ról, majd miután ezt sikerrel megtette, lekér egy szín listát, majd miután ez is sikerült, egy tetszőleges színt rendel a 1-1 felhasználóhoz és így adja vissza a felhasználók listáját. Hiba esetén a console-ra ír, illetve eredménytől függetlenül a console-ra írja, ha végzett.
 
-### `npm test`
+4. A designer a következőképpen álmodja meg a beviteli mező működését:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   - **Kitöltetlen állapotban:**
+     - (ide jöhet a kép vagy leírás)
 
-### `npm run build`
+   - **Kitöltött állapotban:**
+     - (ide jöhet a kép vagy leírás)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   Mi lehet ezzel a működéssel az általános probléma?
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Feltöltés és Határidő
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A megoldott feladatokat kérjük, töltsd fel egy publikus helyre (például GitHub-ra), és az elérhetőséget küldd meg részünkre a brigitta.mucha@comnica.com email címre. A feladat megoldására és visszaküldésére **7 nap** áll rendelkezésedre.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Sok sikert!
