@@ -1,4 +1,5 @@
 # Comnica
+##Megoldás: https://comnica.vercel.app/
 
 Kedves Jelentkező,
 
