@@ -1,18 +1,49 @@
-
-
 .sidebartext {
     position: absolute;
-    padding: 15% 5% 0 5%; 
+    padding: 10% 5% 0 5%;
 
     h1 {
-        font-size: 50px;
+        font-size: 2.5rem;
         color: #682c5d;
         margin-top: 0;
         margin-bottom: 0;
     }
 
     p {
-        font-size: 20px;
-        font-weight:bold;
+        font-size: 1.25rem;
+        font-weight: bold;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .sidebartext {
+    
+        padding: 15% 5% 0 5%;
+        h1 {
+            font-size: 3vh;
+        }
+
+        p {
+            font-size: 1 vh;
+        }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    text-align:center;
+    .sidebartext {
+        padding: 5%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .sidebartext {
+        h1 {
+            font-size: 1.2rem;
+        }
+
+        p {
+            font-size: 1rem;
+        }
     }
 }

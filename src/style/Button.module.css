@@ -4,7 +4,8 @@
     color: white;
     padding: 15px;
     border: 0px;
-    transition:  border-radius 1s ease, padding 1s ease;
+    transition: border-radius 1s ease, padding 1s ease;
+    font-size: 0.938rem;
 }
 
 .button:hover {
@@ -15,5 +16,11 @@
 .error:hover {
     border-radius: 100px;
     padding: 100px;
-    background-color:red;
+    background-color: red;
+}
+
+@media only screen and (max-width: 768px) { 
+    .button { 
+        font-size: 0.6rem;
+    }
 }

@@ -1,12 +1,12 @@
 body {
     margin: 0;
     /*background*/
-    background-image: url('https://png.pngtree.com/png-clipart/20211116/original/pngtree-minimalist-desktop-png-image_6934222.png');
+    background: url('https://png.pngtree.com/png-clipart/20211116/original/pngtree-minimalist-desktop-png-image_6934222.png'),
+        linear-gradient(to bottom, #b5e0d6, #20876f);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    background-size: 50%;
-    background-color: #d3ece8;
+    background-size: 50%, cover;
+    background-color: #20876f;
 
     /*position*/
     height: 100%;
@@ -35,7 +35,6 @@ body {
 .main {
     display: flex;
     height: 100vh;
-
 }
 
 .main>div {
@@ -43,13 +42,27 @@ body {
 }
 
 .main>div:first-child {
-    flex: 0 0 65%; /*if u update u need update last-child*/
-
+    flex: 0 0 65%;
+    /*if u update u need update last-child*/
 }
 
 .main>div:last-child {
-    flex: 0 0 35%;/*if u update u need update first-child*/
+    flex: 0 0 35%;
+    /*if u update u need update first-child*/
     background-color: #ffffff80
 }
 
-/*TODO @MEDIA 768 down */
+@media only screen and (max-width: 1024px) { 
+    body {
+        background-color: #20876f;
+        /* background-image: none;  */
+    }
+}
+
+@media only screen and (max-width: 768px) { 
+    .main {
+        flex-direction: column;
+    }
+}
+
+
