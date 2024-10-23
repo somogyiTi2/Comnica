@@ -13,7 +13,7 @@ const FourthTask = () => {
             <ol>
                 <li>Nem jelzi vissza a felhasználónak, hogy jó-e a válasza.</li>
                 <li>Nincs jelölve hogy ez animálva lenne, vagy hogy is működik.</li>
-                <li>Nincs placeholder, amivel a felhasználónak bemutató szoveget írunk, ha bonyolultabb kérdést adunk neki.</li>
+                <li>Nincs placeholder, amivel a felhasználónak bemutató szöveget írunk, ha bonyolultabb kérdést adunk neki.</li>
                 <li>Rácsúszhat a felette levő szövegre ha túl közel van. </li>
 
             </ol>

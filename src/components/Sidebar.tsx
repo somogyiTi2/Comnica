@@ -16,9 +16,9 @@ const Sidebar = () => {
                     <h1> a Comnica Signature-ben!</h1>
                 </div>
                 <p>
-                    A következőkben végígvezetjek dokumentumai
+                    A következőkben végigvezetjük dokumentumai
                     arogzdásán és lárásán A folyamat több percet
-                    ioénybe vehet. ezért kérjük csak akkor kezdje el ha
+                    igénybe vehet. ezért kérjük csak akkor kezdje el ha
                     készen áll rá.
                 </p>
                 <Button buttonHandler={buttonHandler} buttonText="KEZDHETJÜK"/>
