@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar';
 import Hero from './components/Hero';
 import Logo from './components/Logo';
 import SecundTask from './components/SecundTask';
+import ThirdTask from './components/ThirdTask';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       </div>
       <div className='app-container'>
         <SecundTask />
+        <ThirdTask />
       </div>     
     </>
   );
