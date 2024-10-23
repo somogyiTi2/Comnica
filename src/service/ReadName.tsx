@@ -32,7 +32,7 @@ const ReadName: React.FC<ReadUserProps> = ({ setNames }) => {
       console.log(error, "name error")
     }
     setIsLoading(false);
-    console.log(isLoading, "name finish loaded")
+    console.log(!isLoading, "name finish loaded")
   };
 
   useEffect(() => {

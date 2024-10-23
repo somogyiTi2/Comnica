@@ -33,7 +33,7 @@ const ReadColor: React.FC<ReadUserProps> = ({ setColors }) => {
             console.log(error, "color error")
         }
         setIsLoading(false);
-        console.log(isLoading, "color finish loaded")
+        console.log(!isLoading, "color finish loaded")
     };
 
     useEffect(() => {
