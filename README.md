@@ -34,6 +34,7 @@ Kedves Jelentkező,
 
    Mi lehet ezzel a működéssel az általános probléma?
 
+-Tekerjen lejjebb az oldalon. (FourthTask component)✅
 ## Feltöltés és Határidő
 
 A megoldott feladatokat kérjük, töltsd fel egy publikus helyre (például GitHub-ra), és az elérhetőséget küldd meg részünkre a brigitta.mucha@comnica.com email címre. A feladat megoldására és visszaküldésére **7 nap** áll rendelkezésedre.

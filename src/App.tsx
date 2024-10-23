@@ -21,10 +21,10 @@ function App() {
       <div className='app-container'>
         <SecundTask />
         <ThirdTask />
-      </div>     
+      </div>
       <div className='app-container'>
-        <FourthTask/>
-      </div>   
+        <FourthTask />
+      </div>
     </>
   );
 }
