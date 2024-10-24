@@ -6,7 +6,7 @@ const Hero = () => {
         <div>
             <div className={style.hero}>
                 <h1>Comnica Signature</h1>
-                <p>Digitális aláíró szolgáltatás a Comnicától.</p>
+                <p>Digitális aláíró szolgáltatás a Comnicától</p>
             </div>
         </div>
     )

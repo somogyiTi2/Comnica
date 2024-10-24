@@ -17,8 +17,8 @@ const Sidebar = () => {
                 </div>
                 <p>
                     A következőkben végigvezetjük dokumentumai
-                    arogzdásán és lárásán A folyamat több percet
-                    igénybe vehet. ezért kérjük csak akkor kezdje el ha
+                    elfogadásán és aláírásán. A folyamat több percet is
+                    igénybe vehet, ezért kérjük, csak akkor kezdje el, ha
                     készen áll rá.
                 </p>
                 <Button buttonHandler={buttonHandler} buttonText="KEZDHETJÜK"/>

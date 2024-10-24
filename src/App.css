@@ -1,11 +1,11 @@
 body {
     margin: 0;
     /*background*/
-    background: url('https://png.pngtree.com/png-clipart/20211116/original/pngtree-minimalist-desktop-png-image_6934222.png'),
+    background: url('https://tagd.ai/wp-content/uploads/2023/03/self-assesment-grid.png'),
         linear-gradient(to bottom, #b5e0d6, #20876f);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 50%, cover;
+    background-size: 100%;
     background-color: #20876f;
 
     /*position*/
